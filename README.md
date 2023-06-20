@@ -3,7 +3,7 @@
 ## ⏰ Promodoro
 
 
-![image](https://github.com/lixelamos/promodoro-To-Do-App/assets/48270069/0b2b6d95-dad9-45a1-a6ed-15c73c320cc4)
+![mobile (4)](https://github.com/lixelamos/promodoro-To-Do-App/assets/48270069/42a7e9ef-4b54-4a5d-9f7a-70e38b37f75f)
 
 
 <h3>Promodoro</h3> 
