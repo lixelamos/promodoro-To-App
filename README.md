@@ -3,10 +3,6 @@
 ## ⏰ Promodoro
 
 
-![pomodoro-logo](https://user-images.githubusercontent.com/85350108/201940860-bdf6aa9f-da11-4221-9d59-b127356f4953.png)
-<br><br>
-![promodoro-demo2](https://user-images.githubusercontent.com/85350108/205493490-9f018dab-e003-44d1-8f87-60cc68951a27.png)
-
 
 
 <h3>Promodoro</h3> 
@@ -27,11 +23,11 @@
   <ul>
 <li>Add a task</li>
 <li>Edit/Delete a task</li>
-<li>Pomodoro Feature</li>
+<li>Promodoro Feature</li>
 <li>Start/Pause/Reset Clock</li>
 <li>Data Persistence</li>
 <li>Tags for task</li>
-<li>Page title in sync with Pomodoro time</li>
+<li>Page title in sync with Promodoro time</li>
 <li>The current time and temperature are displayed</li>
 <li>Testing is done using <b>JEST</b></li>
 </ul>
@@ -43,7 +39,7 @@
 <h3>Demo</h3> 
 
 
-![promodoro-demo](https://user-images.githubusercontent.com/85350108/205491437-775623bc-0119-48a3-8be9-a7225c7cb819.png)
+
 
 
 <br/>
@@ -77,9 +73,6 @@
 <li>Testing: p0 scenarios are tested </li>
 </ul>
 <br/>
-
-![Promodoro-test](https://user-images.githubusercontent.com/85350108/201946384-c190a1e4-6fbb-4ec2-b659-7dfa9e28b987.png)
-<b>**Because this image was taken a long time ago, the test coverage percentage can be increased now.</b>
 
 
 

@@ -19,7 +19,7 @@ const Nav = () => {
         appDispatch({type:"SELECT_TIME",payload:0})
         navigate("/")
       }}>
-           promodoro
+           Plan Do
       </div>
       <div className="nav-delete-all" onClick={()=>{
         actionDispatch({

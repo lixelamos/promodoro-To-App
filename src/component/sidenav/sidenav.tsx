@@ -15,7 +15,7 @@ const Sidenav = () => {
          appDispatch({type:"SELECT_TIME",payload:0})
          navigate("/")
           appDispatch({type:"SIDE_NAV",payload:false})}}>
-          Promodoro
+          Plan Do
         </li>
         <li className="sidenav-list-item" onClick={()=>{
          appDispatch({type:"SELECT_TIME",payload:0})

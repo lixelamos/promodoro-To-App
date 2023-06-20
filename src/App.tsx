@@ -1,7 +1,7 @@
 
 import React,{useEffect} from 'react';
 import './App.css';
-import {Footer, Nav} from './component';
+import { Nav} from './component';
 import { useActuon } from './context/action-context';
 import { useApp } from './context/app-context';
 import Main from './main';
@@ -40,9 +40,6 @@ const App:React.FC=()=> {
         </div>
         <div className="app-main">
           <Main/>
-        </div>
-        <div className="app-footer">
-          <Footer/>
         </div>
       </div>
       
